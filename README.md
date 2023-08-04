@@ -18,3 +18,9 @@ this project is created to bring my pasion of coding to life, a quick and easy p
 I hope this program helps someone, like a beginer that are creating a software like this one. If someone is strugeling to get ther love for coding back, small projects like this one is a must.
 I hope you enjoy (:
 `exit()`
+
+
+## some extra help
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjltpiq8a6AAxVrSfEDHdiGBDsQFnoECA0QAw&url=https%3A%2F%2Fpynative.com%2Fpython-list-files-in-a-directory%2F&usg=AOvVaw1e0REDsazv6x6syE0Y0qkb&opi=89978449
+https://www.programiz.com/python-programming/datetime/current-datetime
+https://www.tutorialspoint.com/How-to-check-file-last-access-time-using-Python
